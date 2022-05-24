@@ -1,0 +1,3 @@
+[submodule "rename"]
+	path = rename
+	url = https://github.com/jkelroy/rename.git
